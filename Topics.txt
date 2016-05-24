@@ -1,5 +1,12 @@
 TOPICS
 
+MATH-131 - Derivatives, Integration
+CSCI-110 - C++ language, calling functions, simple structures (arrays, structs)
+CSCI-150 - Discrete mathematics, logic, sets
+CSCI-205 - C++ language, pointers, classes, stacks and recursion, inheritance
+CSCI-225 - Assembly language, linking .asm and .cpp, microcode
+CSCI-220 - C++ language, Queues, BST, AVL tree, Heaps, searches, Hash Tables
+
 ENGL-150 - Work in race, class, gender
 ENGL-203 - Science fiction and fantasy in race, class, gender across history
 ENGL-236 - Modern American literature through romanticism, modernism, post-modernism
