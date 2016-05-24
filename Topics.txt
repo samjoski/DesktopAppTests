@@ -10,3 +10,11 @@ CSCI-220 - C++ language, Queues, BST, AVL tree, Heaps, searches, Hash Tables
 ENGL-150 - Work in race, class, gender
 ENGL-203 - Science fiction and fantasy in race, class, gender across history
 ENGL-236 - Modern American literature through romanticism, modernism, post-modernism
+
+MUSI-150 - Survey of music from African, Australian, and Native American cultures
+PHIL-120 - Greek, Hindi, Enlightenment, Buddhist, and Existentialist philosophy
+RELS-117 - Critically examine the bible, faith, God, prophecy, and religious experience
+ECON-101 - Study how markets, supply and demand, GDP, and other principles affect a global economy
+HIST-120 - Muhammad, Early Arab caliphates, Turkish and Mongolian invasions, Ottoman Empire
+HIST-354 - Islamism, Shi'ite Revival, Hezbollah, Violence, Arab Revolts, and women's issues in the Middle East
+GEOL-105 - Plate Tectonics, Rock/Mineral classificatiosn, Mass wasting, glaciers, natural disasters
